@@ -1,6 +1,6 @@
 {
-  "name": "socket.io-redis",
-  "version": "5.2.0",
+  "name": "@flaque/socket.io-redis",
+  "version": "6.0.0",
   "description": "",
   "license": "MIT",
   "repository": {
