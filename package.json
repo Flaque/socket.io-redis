@@ -1,5 +1,5 @@
 {
-  "name": "@flaque/socket.io-redis",
+  "name": "@getroomservice/socket.io-redis",
   "version": "6.0.1",
   "description": "",
   "license": "MIT",
